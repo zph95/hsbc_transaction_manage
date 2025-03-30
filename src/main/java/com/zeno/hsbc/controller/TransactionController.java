@@ -1,6 +1,5 @@
 package com.zeno.hsbc.controller;
 
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.zeno.hsbc.vo.CreateTransaction;
 import com.zeno.hsbc.vo.PageVo;
 import com.zeno.hsbc.vo.Response;
